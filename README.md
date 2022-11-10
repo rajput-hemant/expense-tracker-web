@@ -30,6 +30,10 @@ rajput-hemant@arch:~/expense-tracker-web$ npm start
 
 <div align = center>
 
+#### Course: [Udemy: React - The Complete Guide (incl Hooks, React Router, Redux)][course]
+
+#### Instructor: [Academind][academind] by [Maximilian Schwarzmüller][max]
+
 ## Contributors:
 
 [![][contributors]][contributors-graph]
@@ -46,4 +50,10 @@ rajput-hemant@arch:~/expense-tracker-web$ npm start
 [stars]: https://img.shields.io/github/stars/rajput-hemant/expense-tracker-web
 [contributors]: https://contrib.rocks/image?repo=rajput-hemant/expense-tracker-web&max=500
 [contributors-graph]: https://github.com/rajput-hemant/expense-tracker-web/graphs/contributors
+
+<!-----------------------------------{ Links }---------------------------------->
+
 [site]: https://rajput-hemant.github.io/expense-tracker-web/
+[course]: https://www.udemy.com/course/react-the-complete-guide-incl-redux/
+[academind]: https://www.udemy.com/user/academind/
+[max]: https://www.udemy.com/user/maximilian-schwarzmuller/
