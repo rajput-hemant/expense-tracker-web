@@ -2,9 +2,9 @@ import { useState } from "react";
 import "./ExpenseForm.css";
 
 const ExpenseForm = (props) => {
-	const [title, setTitle] = useState();
-	const [amount, setAmount] = useState();
-	const [date, setDate] = useState();
+	const [title, setTitle] = useState("");
+	const [amount, setAmount] = useState("");
+	const [date, setDate] = useState("");
 
 	// const [userInput, setUserInput] = useState({
 	// 	title: "",
