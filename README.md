@@ -30,6 +30,51 @@ rajput-hemant@arch:~/expense-tracker-web$ npm start
 
 <div align = center>
 
+## Directory Structure
+
+</div>
+
+```
+src
+|
+|-- components
+|   |
+|   |-- Chart
+|   |   |-- Chart.css
+|   |   |-- Chart.js
+|   |   |-- ChartBar.css
+|   |   `-- ChartBar.js
+|   |
+|   |-- Expenses
+|   |   |-- ExpenseChart.js
+|   |   |-- ExpenseDate.css
+|   |   |-- ExpenseDate.js
+|   |   |-- ExpenseFilter.css
+|   |   |-- ExpenseFilter.js
+|   |   |-- ExpenseItem.css
+|   |   |-- ExpenseItem.js
+|   |   |-- ExpenseList.css
+|   |   |-- ExpenseList.js
+|   |   |-- Expenses.css
+|   |   `-- Expenses.js
+|   |
+|   |-- NewExpense
+|   |   |-- ExpenseForm.css
+|   |   |-- ExpenseForm.js
+|   |   |-- NewExpense.css
+|   |   `-- NewExpense.js
+|   |
+|   `-- UI
+|       |-- Card.css
+|       `-- Card.js
+|
+|-- App.js
+|-- index.css
+`-- index.js
+```
+
+<div align = center>
+
 #### Course: [Udemy: React - The Complete Guide (incl Hooks, React Router, Redux)][course]
 
 #### Instructor: [Academind][academind] by [Maximilian Schwarzmüller][max]
